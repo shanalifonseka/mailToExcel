@@ -1,0 +1,51 @@
+%0LL%23%0LLE%
+
+%0P%D:\\demo.xlsx%0PE%
+
+%1F%Title%1FE%
+%2F%First name:%2FE%
+%3F%Surname:%3FE%
+%4F%Suburb/Town/City:%4FE%
+%5F%State/Territory:%5FE%
+%6F%Country%6FE%
+%7F%Contact phone number (Aust mobile preferred):%7FE%
+%8F%Email address:%8FE%
+%9F%Gender:%9FE%
+%10F%Educational institution (if applicable):%10FE%
+%11F%Study mode:%11FE%
+%12F%Current semester/trimester:%12FE%
+%13F%Student number (if applicable):%13FE%
+%14F%Course (subject) title (if applicable):%14FE%
+%15F%Study type:%15FE%
+%16F%Program (qualification) title (if applicable):%16FE%
+%17F%Course (subject) coordinator (if applicable):%17FE%
+%18F%Please outline your key skills and abilities (up to five dot points):%18FE%
+%19F%Of the courses (subjects) you have completed, which have been your favourite three?%19FE%
+%20F%I agree with the above:%20FE%
+%21F%Submitted Files%21FE%
+%22F%Please attach your résumé (optional):%22FE%
+%23F%End Col%23FE%
+
+%1D%Title%1DE%
+%2D%First Name%2DE%
+%3D%Surname%3DE%
+%4D%Suburb/Town/City%4DE%
+%5D%State/Territory%5DE%
+%6D%Country%6DE%
+%7D%Phone No%7DE%
+%8D%Email%8DE%
+%9D%Gender%9DE%
+%10D%Educational Institution%10DE%
+%11D%Study Mode%11DE%
+%12D%Current Semester/Trimester%12DE%
+%13D%Student No%13DE%
+%14D%Course Title%14DE%
+%15D%Study Type%15DE%
+%16D%Program Title%16DE%
+%17D%Course Coordinator%17DE%
+%18D%Key Skills and Abilities%18DE%
+%19D%Favourite Completed Courses%19DE%
+%20D%Agree%20DE%
+%21D%Removed%21DE%
+%22D%Résumé%22DE%
+%23D%End Col%23DE%
